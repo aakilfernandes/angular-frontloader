@@ -2,6 +2,12 @@
 
 Angular-Frontloader is a small module that helps your app pass data from your server to the client without an AJAX call. It consists of a directive `frontload` and a service `frontloaded`.
 
+## Installation
+
+    bower install angular-frontloader
+
+    app.module('myApp',['frontloader'])
+
 ## How to use
 
 HTML
